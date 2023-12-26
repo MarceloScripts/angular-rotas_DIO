@@ -1,27 +1,63 @@
-# Rotas
+# Projeto de Aula: Rotas com Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
+Este é um mini projeto desenvolvido durante a aula ministrada pelo professor Felipe Aguiar, focada no entendimento e implementação de rotas com Angular.
 
-## Development server
+## Tecnologias Utilizadas
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- **Angular**: Framework JavaScript para construção de aplicativos web.
+- **HTML**: Linguagem de marcação para estruturar a página.
+- **CSS**: Linguagem de estilização para design e apresentação.
+- **TypeScript**: Linguagem superset do JavaScript utilizada no desenvolvimento Angular.
 
-## Code scaffolding
+## Descrição do Projeto
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+O projeto visa demonstrar a utilização de rotas no Angular para criar uma navegação eficiente entre diferentes componentes da aplicação. Utilizando HTML, CSS e TypeScript, foram desenvolvidos os elementos visuais e funcionais para exemplificar o funcionamento das rotas e sua aplicabilidade no desenvolvimento de aplicações web modernas.
 
-## Build
+## Como Executar o Projeto
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Para executar este projeto localmente, siga os passos abaixo:
 
-## Running unit tests
+### Pré-requisitos
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+- Node.js instalado
+- Angular CLI instalado
 
-## Running end-to-end tests
+### Passos
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+1. Clone este repositório para sua máquina local:
 
-## Further help
+    ```bash
+    git clone https://github.com/seu-usuario/nome-do-repositorio.git
+    ```
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+2. Acesse o diretório do projeto:
+
+    ```bash
+    cd nome-do-repositorio
+    ```
+
+3. Instale as dependências:
+
+    ```bash
+    npm install
+    ```
+
+4. Inicie o servidor de desenvolvimento:
+
+    ```bash
+    ng serve
+    ```
+
+5. Abra o navegador e acesse `http://localhost:4200` para visualizar o projeto.
+
+## Contribuição
+
+Contribuições são bem-vindas! Sinta-se à vontade para enviar sugestões, relatar problemas ou criar pull requests.
+
+## Autor
+
+Este projeto foi desenvolvido durante a aula com o professor Felipe Aguiar, como parte do aprendizado em Angular sobre rotas.
+
+---
+
+Este README segue a estrutura básica de documentação do projeto. Sinta-se à vontade para expandir as informações conforme necessário.
