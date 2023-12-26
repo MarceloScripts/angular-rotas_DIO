@@ -1,0 +1,16 @@
+
+
+.class {
+    text-decoration: none;
+    font-size: 40px;
+    color: red;
+}
+
+.class:hover {
+    color: black;
+}
+/* 
+.class {
+    color: greenyellow;
+    font-size: larger;
+} */
